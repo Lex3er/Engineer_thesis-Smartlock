@@ -1,10 +1,10 @@
-# Kod źródłowy pracy dyplomowej "Projekt inteligentnego zamka do drzwi lokalu mieszkalnego z wykorzystaniem technologii bezprzewodowej i urządzenia mobilnego"
+# Kod źródłowy pracy dyplomowej "Projekt inteligentnego zamka do drzwi lokalu mieszkalnego z wykorzystaniem technologii bezprzewodowej i urządzenia mobilnego" #
 <hr/>
-### Kod źródłowy programu sterującego zamkiem inteligentnym wykonany w ramach pracy inżynierskiej na kierunku "Mechatronika" Politechniki Białostockiej (specjalizacja: "Konstrukcje inteligentne").
+### Kod źródłowy programu sterującego zamkiem inteligentnym wykonany w ramach pracy inżynierskiej na kierunku "Mechatronika" Politechniki Białostockiej (specjalizacja: "Konstrukcje inteligentne"). ###
 <br/>
 Repozytorium zawiera kod źródłowy zamka inteligentnego wykonany w języku C++ oraz HTML. Aplikacja mobilna sterująca zamkiem wykonana zaostała za pośrednictwem platformy MIT App Inventor
 <br/>
-## Steszczenie
+## Steszczenie ##
 <hr/>
 Praca dyplomowa opierała się na zaprojektowaniu, stworzeniu i zaprogramowaniu zamka inteligentnego wykorzystywanego w lokalach mieszkalnych i sterowanego za pomocą technologii bezprzewodowej i aplikacji mobilnej. Głównym założeniem było zaprojektowaniu konstrukcji którą można byłoby wykorzystać w zdalnym sterowaniu dostępem do lokali mieszkalnych z dodatkową możliwością manualnego dostępu do pomieszczeń w przypadku odcięcia zasilania sieciowego i awarii/rozładowania źródła zasilania dodatkowego. W tym celu wykorzystano układ z mikrokontrolerem ESP32 silnik krokowy Nema 17, sterownik TMC2226, potencjometr wieloobrotowy 10kOhm, keypad 4x4, diody LED, buzzer, kontaktron CMD1263 oraz inne elementy elektroniczne potrzebne do utworzenia źródła zasilania.
 <br/>
